@@ -17,6 +17,13 @@ It's hard to capture the dancing lights on camera well, but here is a couple of 
 
 [YouTube video of CosmicArcadeRacer in action on a Pimoroni Cosmic Unicorn ](https://www.youtube.com/watch?v=7CTsGtkukVQ)
 
+### Controls?
+
+	* A = Left
+	* B = Brakes
+	* Vol+ = Right
+	* Vol- = Accelerate
+	* D = Change Theme
 
 ## Try without installing on the pico...
 You can either run it from your computer using thonny / mpremote as you would anything else. 
