@@ -16,7 +16,6 @@ It's hard to capture the dancing lights on camera well, but here is a couple of 
 ![Cosmic Arcade Racer - Red theme](./assets/cosmic_arcade_red.png)
 
 [YouTube video of CosmicArcadeRacer in action on a Pimoroni Cosmic Unicorn ](https://www.youtube.com/watch?v=7CTsGtkukVQ)
-https://www.youtube.com/watch?v=7CTsGtkukVQ
 
 
 ## Try without installing on the pico...
