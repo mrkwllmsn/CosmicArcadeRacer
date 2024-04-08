@@ -1,6 +1,11 @@
 # CosmicArcadeRacer
 80s style arcade racer for Pimoroni Cosmic Unicorn, written in micropython.
 
+It's more of a screensaver / light show than a game, there's no points or times or anything, just a loose approximation of driving.
+There are many different scenes to drive through. You don't have to drive, it has a self driving subscription so you can sit back 
+and enjoy the ride if you want.  
+
+The road is randomly generated, the terrain turns various assets on and off. You can make new themes fairly easily, sort of maybe.
 
 
 ## Try without installing on the pico...
@@ -26,4 +31,7 @@ then restart your CU, however you like. One way is this, or use a button on it.
 mpremote reset
 ```
 
+Memory is tight so I have included a pre minified version if you want to save some space you could use that. 
+Or use the deploy.sh script which will make a new minified version and save some space if you choose not to make your own.
+ 
 
